@@ -1,0 +1,23 @@
+quand je clic je dois changer le numero et la couleur de la semaine
+
+tu crée une bdd avec le nom du manga le numero de chapitre la date de lupdate
+
+batuque
+blue lock
+berserk
+begin
+black clover
+bokura no ketsumei
+bouncer
+chainsawman
+dr stone
+kingdom
+ron kamonohashi
+shangri la frontier
+vinland saga
+two crowns
+hunter x hunter
+my hero academia
+one piece
+dai dark
+solo leveling
